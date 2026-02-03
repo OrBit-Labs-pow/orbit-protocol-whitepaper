@@ -1,4 +1,4 @@
-# orbit-protocol-whitepaper
+# OrBit-protocol-whitepaper
 ## A Bitcoin-collateralized synthetic currency layer on Botanix EVM.
 Bridging Bitcoin capital to local fiat liquidity without selling Bitcoin.
 
