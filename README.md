@@ -7,6 +7,7 @@ OrBit Protocol enables users to lock Bitcoin as collateral and mint synthetic cu
 
 ## Whitepaper
 - Whitepaper v0.1
+- whitepaper/OrBit Protocol Whitepaper.pdf
 
 ## Status
 Early research and design phase.
