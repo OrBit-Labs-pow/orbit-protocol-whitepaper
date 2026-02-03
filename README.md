@@ -6,7 +6,7 @@ Bridging Bitcoin capital to local fiat liquidity without selling Bitcoin.
 OrBit Protocol enables users to lock Bitcoin as collateral and mint synthetic currency units referencing local fiat values, allowing fiat-denominated economic activity while preserving long-term Bitcoin exposure.
 
 ## Whitepaper
-- [whitepaper/OrBit Protocol Whitepaper.pdf]
+-[whitepaper/OrBit_Protocol_Whitepaper.pdf]
 
 ## Status
 Early research and design phase.
